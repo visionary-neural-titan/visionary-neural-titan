@@ -1,4 +1,4 @@
-<b> Visionary Neural Titan </b>
+<h1> Visionary Neural Titan </h1>
 
 is an advanced artificial intelligence system that combines
 cutting-edge neural network technology with visionary analytical capabilities. 
